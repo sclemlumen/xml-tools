@@ -1,0 +1,3 @@
+<system.net>
+    <defaultProxy useDefaultCredentials="true" />
+</system.net>
